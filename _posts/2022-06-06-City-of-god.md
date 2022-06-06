@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 tags: [movies][arlwatch][imdb_top_250]
 categories: [movie_review]
 #date: 2019-06-25 13:14:15
