@@ -23,7 +23,7 @@ name                     : "Tanvir Ahmed Labon"
 description              : "Here I post a lot about myself, interviews, business, life experience and other stories"
 url                      : "https://labon.ml"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "labibvaiblog/labibvaiblog.github.io"
+repository               : "labonvaiya/labonvaiya"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/labibvai_icon.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -81,9 +81,9 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : adnanraoha
+  username               : labon_vaiya
 facebook:
-  username               :
+  username               : labonvaiyapersonal
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -104,43 +104,43 @@ analytics:
 
 # Site Author
 author:
-  name             : " Adnan Raoha Labib"
+  name             : " Tanvir Ahmed Labon"
   avatar           : "/assets/images/labib.jpg"
-  bio              : "Failure is the pillar of success, Alhamdulillah I've got pillars :P."
+  bio              : ""
   location         : "Still detecting"
-  email            : me@labib.one
+  email            : tanvirahmedlabon@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:me@labib.one"
+      url: "mailto:tanvirahmedlabon@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://labib.one"
+      url: "https://labon.ml"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/adnanraoha"
+      url: "https://twitter.com/labon_vaiya"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/adnanraohalabib"
+      url: "https://facebook.com/labonvaiyapersonal"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/adnanraoha"
+      url: "https://instagram.com/labon_vaiya"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/adnanraoha"
+      url: "https://twitter.com/labon_vaiya"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/labonvaiyapersonal"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      # url: "https://github.com/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/adnanraoha"
+      url: "https://instagram.com/labon_vaiya"
 
 
 
