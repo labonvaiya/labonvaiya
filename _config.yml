@@ -25,7 +25,7 @@ url                      : "https://labon.ml"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "labonvaiya/labonvaiya"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/labonvaiya.jpg"
+logo                     : "/assets/images//storage/emulated/0/Download/labonvaiya.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
