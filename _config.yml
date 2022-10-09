@@ -25,7 +25,7 @@ url                      : "https://labon.ml"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "labonvaiya/labonvaiya"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images//storage/emulated/0/Download/labonvaiya.png"
+logo                     : "/assets/images//labonvaiya.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -105,14 +105,12 @@ analytics:
 # Site Author
 author:
   name             : " Tanvir Ahmed Labon"
-  avatar           : "/assets/images/labib.jpg"
+  avatar           : "/assets/images/labon.jpg"
   bio              : ""
   location         : "Still detecting"
   email            : tanvirahmedlabon@gmail.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:tanvirahmedlabon@gmail.com"
+    
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://labon.ml"
