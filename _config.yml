@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : labon_vaiya
+  username               : labonvaiya
 facebook:
   username               : labonvaiyapersonal
   app_id                 :
@@ -119,7 +119,7 @@ author:
       url: "https://labon.ml"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/labon_vaiya"
+      url: "https://twitter.com/labonvaiya"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/labonvaiyapersonal"
@@ -128,14 +128,14 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/labon_vaiya"
+      url: "https://instagram.com/labonvaiya"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/labon_vaiya"
+      url: "https://twitter.com/labonvaiya"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/labonvaiyapersonal"
@@ -150,7 +150,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/labon_vaiya"
+      url: "https://instagram.com/labonvaiya"
 
 
 
